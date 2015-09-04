@@ -18,3 +18,5 @@ dillon.burns.https://vimeo.com/138319431
 David Dominguez -- https://vimeo.com/138318808
 
 John Conover -- https://vimeo.com/138317102
+
+Kat McDermott -- https://vimeo.com/138330993
