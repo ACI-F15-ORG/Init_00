@@ -14,3 +14,5 @@ Marina Espinoza -- https://vimeo.com/user43552605
 Maria Michails -- https://vimeo.com/mariamichails
 
 dillon.burns.https://vimeo.com/138319431
+
+David Dominguez -- https://vimeo.com/138318808
