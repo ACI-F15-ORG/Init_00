@@ -36,7 +36,7 @@ Now to [Vimeo](https://vimeo.com/) and create a free account. Groups you may wan
 >> [fraps](http://www.fraps.com)
 
 > __Linux__
->>	[Record My Desktop](http://recordmydesktop.sourceforge.net/about.php)
+>> [Record My Desktop](http://recordmydesktop.sourceforge.net/about.php)
 
 
 #### 4. Arduino
@@ -80,7 +80,7 @@ The [OF](http://www.openframeworks.cc/download/) site has help per platform per 
 Run any project, capture a few seconds of it as proof, and upload that video to your vimeo account. I suggest uploading a standard definition (SD) instead of high definition (HD). We don't need audio on this upload. The free Vimeo account limits your HD uploads, so save them for videos that need it. Vimeo has compression guidelines and tutorials for [uploading](https://vimeo.com/help/compression).
 
 #### 8. Fork & Pull
-Fork the Init_00 repository into your account. Enter yourself alphabetically into the links.md file with your name and vimeo link. Create a pull request of the file for your changes to be integrated.
+Fork the Init_00 repository into your account. You may need merge from course repo first, then sync. Enter yourself alphabetically into the links.md file with your name and vimeo link. Create a pull request of the file for your changes to be integrated.
 
 #### 9. Read
 _Programming Interactivity_, Chapter 1, optional
