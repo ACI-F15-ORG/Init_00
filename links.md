@@ -26,3 +26,5 @@ Kat McDermott -- https://vimeo.com/138330993
 Ariel Lee -- https://vimeo.com/user43552501
 
 Zaran Lalvani -- https://vimeo.com/138546112
+
+Leying Hu -- https://vimeo.com/138564947
