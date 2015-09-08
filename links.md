@@ -21,6 +21,8 @@ David Dominguez -- https://vimeo.com/138318808
 
 John Conover -- https://vimeo.com/138317102
 
+Alex Gerlich -- https://vimeo.com/138574530
+
 Kat McDermott -- https://vimeo.com/138330993
 
 Ariel Lee -- https://vimeo.com/user43552501
