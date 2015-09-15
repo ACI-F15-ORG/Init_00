@@ -24,8 +24,6 @@ Now to [Vimeo](https://vimeo.com/) and create a free account. Groups you may wan
 >> Do nothing, quicktime has you covered. 
 
 > __Windows (free)__ 
->> [cam studio](http://camstudio.org)
-
 >> [taksi](http://taksi.sourceforge.net)
 
 >> [jing](http://www.techsmith.com/jing.html)
