@@ -32,3 +32,5 @@ Ariel Lee -- https://vimeo.com/user43552501
 Zaran Lalvani -- https://vimeo.com/138546112
 
 Leying Hu -- https://vimeo.com/138564947
+
+Michael Dewey -- https://vimeo.com/138320606
